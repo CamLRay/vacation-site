@@ -4,3 +4,20 @@
   margin: 1%;
 }
 
+.card-title {
+  color: white;
+  text-align: center;
+}
+
+.card-text {
+  color: white;
+  text-align: center;
+}
+
+.card {
+  background-color: darkred;
+}
+
+.card img {
+  width: 100%;
+}
