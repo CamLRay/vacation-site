@@ -4,6 +4,23 @@
   margin: 1%;
 }
 
+.jumbotron {
+  background-color: darkred
+}
+
+.jumbotron h1 {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+.jumbotron p {
+  color: whitesmoke;
+  background-color: black;
+  width: 15%;
+  margin: auto;
+  border-radius: 5px;
+}
 .card-title {
   color: white;
   text-align: center;
@@ -24,12 +41,14 @@
 
 img {
   width:95%;
-  boar
+  border: 6px solid black;
+  border-radius: 5px;
 }
 
 .container {
   text-align: center;
-  
+  background-color: beige;
+  border: 10px solid black;
 }
 
 h2 {
@@ -37,4 +56,10 @@ h2 {
   background-color: black;
   padding: 10px;
   color: bisque;
+  text-decoration: underline 3px darkred
+}
+
+h3 {
+  text-decoration: underline 4px darkred;
+  font-size: 140%;
 }
